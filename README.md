@@ -3,5 +3,4 @@
 unpackbootimg by osm0sis,
 dtc by obastani, dtimgextract by s0be
 
-# Todo
-Add arm64 version?
+[ToDo](https://github.com/Android-Boot-Manager/toolkit/projects/1)
