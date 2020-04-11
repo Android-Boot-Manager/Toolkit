@@ -1,7 +1,7 @@
 # Some pre-compiled tools needed for Android Boot Manager
 
-unpackbootimg by osm0sis
-dtc by obastani
+unpackbootimg by osm0sis,
+dtc by obastani, dtimgextract by s0be
 
 # Todo
-Add dome tool for extracting qcom dt.img
+Add arm64 version?
